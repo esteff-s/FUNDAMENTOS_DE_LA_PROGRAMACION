@@ -1,5 +1,5 @@
 
-# Inventario de productos de Papeleria Drupis 
+# Inventario de productos para la Papeleria Drupis 
 
 # Contraseña Final :)
 Contraseña_Correcta = "1234"
@@ -425,7 +425,7 @@ while opcion != "4":
                 print(f"Intento {intento} de 3")
 
 # Propuesta inicial: Que al poner la contraseña correcta se registren los datos del programa en un archivo .txt (Proximamente...)
-#Si no se pone correctamente la contraseña que no se guarde nada y se cierre el programa
+#Si no se pone correctamente la contraseña que no se guarde nada y se cierre el programa automaticamente
 
                 
 
