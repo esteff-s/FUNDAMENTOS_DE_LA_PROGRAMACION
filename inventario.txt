@@ -13,3 +13,4 @@ Pluma roja|10.00|11
 Marcador negro (Sharpie)|25.00|10
 Cartulina|5.00|10
 Hojas de foami|8.00|10
+# Inventario Papeleria Drupis | numero|producto|precio|existencia|fecha|27/11/2026

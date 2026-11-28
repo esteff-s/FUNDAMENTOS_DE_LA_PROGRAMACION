@@ -1,0 +1,10 @@
+# Archivo creado el 27/11/2026
+Clientes Papeleria Drupis | nombre|telefono|tipo|fecha|27/11/2026
+Clientes
+ · TXT
+# Clientes Papeleria Drupis | nombre|telefono|tipo|fecha
+Ana Lopez|4421234567|Estudiante|27/11/2026
+Escuela Primaria Benito Juarez|4427654321|Escuela|27/11/2026
+Luis Ramirez|4429876543|Particular|27/11/2026
+Maria Torres|4421112233|Maestra|27/11/2026
+

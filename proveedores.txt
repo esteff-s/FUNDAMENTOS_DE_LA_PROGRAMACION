@@ -1,0 +1,8 @@
+# Archivo creado el 27/11/2026
+Proveedores|27/11/2026
+Proveedores
+ · TXT
+# Proveedores Papeleria Drupis | proveedor|producto que surte|telefono|fecha
+Distribuidora Escolar del Centro|Libretas|4425550101|27/11/2026
+Plumas y Mas SA|Plumas y marcadores|4425550102|27/11/2026
+Papelera Queretaro|Hojas y cartulinas|4425550103|27/11/2026

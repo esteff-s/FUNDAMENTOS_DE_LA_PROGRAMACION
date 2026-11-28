@@ -1,0 +1,8 @@
+# Archivo creado el 27/11/2026
+
+Ventas
+ · TXT
+# Ventas Papeleria Drupis | cliente|producto|cantidad|total|fecha
+Ana Lopez|Libreta cuadro chico|5|175.00|27/11/2026
+Luis Ramirez|Pluma azul|3|30.00|27/11/2026
+Maria Torres|Cartulina|10|50.00|27/11/2026

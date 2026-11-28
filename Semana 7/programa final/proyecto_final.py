@@ -3,7 +3,7 @@
 # Problema que resuelve: la papeleria necesita consultar su
 # inventario, clientes, ventas y proveedores, calcular el costo
 # de una compra y guardar registros sin perderlos al cerrar.
-# Hecho por: (escribe aqui tu nombre y matricula)
+# Hecho por: Estefany Fuentes Sánchez
 # Curso: Fundamentos de programacion - Actividad 7
 # ============================================================
 
@@ -247,7 +247,6 @@ def inactividad():
         respuesta = input("Pasaron 10 minutos. Deseas continuar? (si/no): ").strip().lower()
         if respuesta != "si" and respuesta != "no":
             print("Solo responde si o no.")
-    print("Respuesta recibida:", respuesta)
     return respuesta
 
 
@@ -497,7 +496,6 @@ def main():
     resultado = menu_principal(nombre, Fecha)
 
     if resultado == "salir":
-        print("PROGRAMA FINALIZADO")
         return
 
 
