@@ -1,0 +1,15 @@
+Libreta cuadro grande|40.00|25
+Libreta cuadro chico|35.00|25
+Libreta rayas|30.00|25
+Borrador blanco|5.00|15
+Sacapuntas|10.00|20
+Regla|12.00|8
+Pegamento en barra|15.00|20
+Tijeras escolares|40.00|6
+Paquete de hojas blancas|90.00|15
+Pluma negra|10.00|11
+Pluma azul|10.00|11
+Pluma roja|10.00|11
+Marcador negro (Sharpie)|25.00|10
+Cartulina|5.00|10
+Hojas de foami|8.00|10
